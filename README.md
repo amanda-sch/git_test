@@ -1,0 +1,1 @@
+This is amandelion's first git project!
